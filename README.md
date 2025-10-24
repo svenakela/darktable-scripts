@@ -155,7 +155,8 @@ When any of the mapped modules are active the trims are adjusting that specific 
             Trim 8: luminance masking threshold
     Crop - No extra input configured
     Compress History - Compresses the history instantly
-    Quick Access Panel - View the Quick Panel. Note that if any module is still open, it will still be the running module.
+    Quick Access Panel - View the Quick Panel. 
+        Note that if any module is still open, it will still be the running module.
 
 In Layer B the only buttons in use are `[<<]` and `[>>]`.
 
