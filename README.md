@@ -31,7 +31,8 @@ Some modules will still work even though the are not mapped on the board, like S
       [        ] [        ] [ << Tab ] [ Tab >>  ] [            ] [              ] [          ] [             ]
 
 ## TRIM INPUTS
-    When NO module is opened, the eight trims are mapped to work for quick editing.
+When NO module is opened, the eight trims are mapped to work for quick editing.
+
         Layer A:
             Trim 1: Exposure - exposure
             Trim 2: AgX - curve contrast
