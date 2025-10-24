@@ -165,7 +165,7 @@ In Layer B the only buttons in use are `[<<]` and `[>>]`.
 * restart darktable if using the luarc file
 * Import the `agx-x-touch-key-mapping.cfg` file in Darktable -> Preferences -> Shortcuts
 
-OR, import the `agx-x-touch-key-mapping.cfg` file and use the Lua script manager to add the this script
+OR, import the `agx-x-touch-key-mapping.cfg` file and use the Lua script manager to add the lua script from this repo
 
 ## Additional Software Required
 
