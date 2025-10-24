@@ -3,19 +3,21 @@
 
 Use a Behringer X-touch mini for faster editing in Darktable.
 
----
-title: agx-x-touch-mini
-id: x-touch
-weight: 120
-draft: false
-author: "people"
----
+    ---
+    title: agx-x-touch-mini
+    id: x-touch
+    weight: 120
+    draft: false
+    author: "people"
+    ---
 
 ## Name
 
 xga-x-touch-mini.lua - use an X-Touch Mini controller with Darktable and AgX as the main tone mapper
 
 ## Description
+
+![x-touch](https://github.com/svenakela/darktable-scripts/blob/main/image.png?raw=true)
 
 The buttons are setup for a workflow left to right, like western reading.
 Some modules will still work even though the are not mapped on the board, like Sigmoid and Color zones.
