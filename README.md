@@ -163,6 +163,14 @@ In Layer B the only buttons in use are `[<<]` and `[>>]`.
 
 ## Usage
 
+The Key mapping file has three AgX presets mapped to buttons:
+
+    midi:B-1=iop/agx/preset/My own preset 1
+    midi:C0=iop/agx/preset/My own preset 2
+    midi:C#0=iop/agx/preset/_builtin_smooth|base
+
+Either make two presets in AgX named "My own preset 1|2" or rename those two in the mapping file.
+
 * require the lua script from your luarc file or start it from script_manager
 * restart darktable if using the luarc file
 * Import the `agx-x-touch-key-mapping.cfg` file in Darktable -> Preferences -> Shortcuts
