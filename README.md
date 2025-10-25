@@ -56,7 +56,7 @@ When any of the mapped modules are active the trims are adjusting that specific 
     Color Calibration
         Jump Tabs with [<<] and [>>] OR trim 5
         Layer A: 
-            Trim 5: Jump between tabs, push resets to CAT. Nice feature kept from Diederik's code
+            Trim 5: Jump between tabs, push resets to CAT. Feature kept from Diederik's code
             Trim 6: Slider 1 in active tab
             Trim 7: Slider 2 in active tab
             Trim 8: Slider 3 in active tab
